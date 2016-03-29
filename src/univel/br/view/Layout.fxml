@@ -16,5 +16,6 @@
       <TextField layoutX="126.0" layoutY="118.0" />
       <Button layoutX="336.0" layoutY="118.0" mnemonicParsing="false" text="Salvar" />
       <Button layoutX="405.0" layoutY="118.0" mnemonicParsing="false" text="Excluir" />
+      <Button layoutX="472.0" layoutY="118.0" mnemonicParsing="false" text="Limpar" />
    </children>
 </AnchorPane>
