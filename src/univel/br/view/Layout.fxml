@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 
 
@@ -9,5 +10,6 @@
       <Label layoutX="21.0" layoutY="26.0" text="Id" />
       <Label layoutX="13.0" layoutY="71.0" text="Nome" />
       <Label layoutX="9.0" layoutY="122.0" text="Telefone" />
+      <TextField layoutX="126.0" layoutY="22.0" />
    </children>
 </AnchorPane>
